@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b941c134480197f489951cd0c305e790
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tank: {fileID: 3049072282070774912, guid: 5eb29164fbc662041a88eaa835a3dc35, type: 3}
+  - ScoreUI: {fileID: 7921881302126690770, guid: 9af74d34ef3ee734589dccfe4b5235f8,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
